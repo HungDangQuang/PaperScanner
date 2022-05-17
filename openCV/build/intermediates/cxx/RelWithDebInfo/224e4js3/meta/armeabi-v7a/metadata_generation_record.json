@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1555342229
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/.cxx/RelWithDebInfo/224e4js3/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1550201688
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/.cxx/RelWithDebInfo/224e4js3/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1556371446
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/.cxx/RelWithDebInfo/224e4js3/armeabi-v7a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 433826164
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1609506267
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/.cxx/RelWithDebInfo/224e4js3/armeabi-v7a\u0027",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 470193207
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /Users/quanghung/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/Users/quanghung/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/Users/quanghung/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/quanghung/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/quanghung/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/build/intermediates/cxx/RelWithDebInfo/224e4js3/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/build/intermediates/cxx/RelWithDebInfo/224e4js3/obj/armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-B/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/.cxx/RelWithDebInfo/224e4js3/armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1922748573
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Users/quanghung/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/Users/quanghung/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/Users/quanghung/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/quanghung/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/quanghung/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/build/intermediates/cxx/RelWithDebInfo/224e4js3/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/build/intermediates/cxx/RelWithDebInfo/224e4js3/obj/armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-B/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/.cxx/RelWithDebInfo/224e4js3/armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1534654308
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/.cxx/RelWithDebInfo/224e4js3/armeabi-v7a/compile_commands.json.bin normally",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -131661092
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1297160016
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/.cxx/RelWithDebInfo/224e4js3/armeabi-v7a/metadata_generation_command.txt",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1541261070
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/quanghung/Documents/năm 4 hk2/mobile app/demoOpenCV/openCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1059734196
+  }
+]
